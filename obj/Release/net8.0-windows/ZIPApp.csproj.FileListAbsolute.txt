@@ -1,0 +1,14 @@
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\bin\Release\net8.0-windows\ZIPApp.exe
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\bin\Release\net8.0-windows\ZIPApp.deps.json
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\bin\Release\net8.0-windows\ZIPApp.runtimeconfig.json
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\bin\Release\net8.0-windows\ZIPApp.dll
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\bin\Release\net8.0-windows\ZIPApp.pdb
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\obj\Release\net8.0-windows\ZIPApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\obj\Release\net8.0-windows\ZIPApp.AssemblyInfoInputs.cache
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\obj\Release\net8.0-windows\ZIPApp.AssemblyInfo.cs
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\obj\Release\net8.0-windows\ZIPApp.csproj.CoreCompileInputs.cache
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\obj\Release\net8.0-windows\ZIPApp.dll
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\obj\Release\net8.0-windows\refint\ZIPApp.dll
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\obj\Release\net8.0-windows\ZIPApp.pdb
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\obj\Release\net8.0-windows\ZIPApp.genruntimeconfig.cache
+D:\prr\prr\semak3\ITIP\KP\ZIPApp\obj\Release\net8.0-windows\ref\ZIPApp.dll
